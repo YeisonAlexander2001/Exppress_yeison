@@ -1,42 +1,33 @@
 [
-{
-"id": 4,
-"date": "2017-05-11",
-"weather": "cloudy",
-"visibility": "good",
-"comment": "I almost failed the landing but I survived"
-
-
-},
-{
-"id": 4,
-"date": "2017-05-11",
-"weather": "cloudy",
-"visibility": "good",
-"comment": "I almost failed the landing but I survived"
-
-},
-
-{
-"id": 4,
-"date": "2017-05-11",
-"weather": "cloudy",
-"visibility": "good",
-"comment": "I almost failed the landing but I survived"
+    {
+    "id": 1,
+    "date": "2017-05-11",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "I almost failed the landing but I survived"
+    },
+    {
+    "id": 2,
+    "date": "2017-05-11",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "I almost failed the landing but I survived"
     
+    },
+    
+    {
+    "id": 3,
+    "date": "2017-05-11",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "I almost failed the landing but I survived"
 
-
-
-},
-{
-"id": 4,
-"date": "2017-05-11",
-"weather": "cloudy",
-"visibility": "good",
-"comment": "I almost failed the landing but I survived"
-      
-}
-
-
-
+    },
+    {
+    "id": 4,
+    "date": "2017-05-11",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "I almost failed the landing but I survived"
+    }       
 ]
